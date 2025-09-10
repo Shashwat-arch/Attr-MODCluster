@@ -1,4 +1,4 @@
-Code base of Attr-MODCluster: A GNN based graph clustering method using modularity loss function.
+Code base of **Attr-MODCluster**: A GNN based graph clustering method using modularity loss function.
 
 Requirements:
 torch-scatter
